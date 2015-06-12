@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#"
+     xml:base="http://www.semanticweb.org/led/ontologies/2015/4/assignment2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2">
+        <rdfs:comment>Assignment 2</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAcc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAcc">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccX -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccX">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccY -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccY">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccZ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccZ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyro -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyro">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroX -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroX">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyro"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroY -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroY">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyro"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroZ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroZ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyro"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Laying -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Laying">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Sitting"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Standing"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Sitting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Sitting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Standing"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Standing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Standing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAcc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAcc">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#InertialSignals"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccX -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccX">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccY -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccY">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccZ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccZ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAcc"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Activities"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#WalkingDownstairs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#WalkingDownstairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#WalkingUpstairs"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#WalkingUpstairs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#WalkingUpstairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Walking"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Justin -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Justin">
+        <rdf:type rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Mary -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Mary">
+        <rdf:type rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Pete -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Pete">
+        <rdf:type rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Robert -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Robert">
+        <rdf:type rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Wendy -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Wendy">
+        <rdf:type rdf:resource="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TestSubject"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroX"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroY"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyGyroZ"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccX"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccY"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#TotalAccZ"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Justin"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Mary"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Pete"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Robert"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#Wendy"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccX"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccY"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/led/ontologies/2015/4/assignment2#BodyAccZ"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
