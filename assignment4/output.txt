@@ -1,0 +1,821 @@
+
+Raw Data:
+
+  Jurisdiction Name    Number of Hispanic Residents
+-------------------  ------------------------------
+              10001                              16
+              10002                               1
+              10003                               0
+              10004                               0
+              10005                               0
+              10006                               2
+              10007                               0
+              10009                               0
+              10010                               0
+              10011                               1
+              10012                               0
+              10013                               0
+              10014                               0
+              10016                               9
+              10017                               0
+              10018                               0
+              10019                               0
+              10020                               0
+              10021                               0
+              10022                               0
+              10023                               3
+              10024                               0
+              10025                              15
+              10026                               0
+              10027                               1
+              10028                               0
+              10029                               4
+              10030                               0
+              10031                               0
+              10032                               9
+              10033                               0
+              10034                               0
+              10035                               0
+              10036                               0
+              10037                               0
+              10038                               2
+              10039                               0
+              10040                               3
+              10044                               0
+              10045                               0
+              10065                               0
+              10115                               0
+              10119                               0
+              10128                               0
+              10154                               0
+              10278                               0
+              10280                               0
+              10301                               0
+              10302                               0
+              10303                               0
+              10304                               0
+              10305                               0
+              10306                               0
+              10307                               0
+              10309                               0
+              10310                               0
+              10312                               0
+              10314                               0
+              10451                              22
+              10452                              10
+              10453                               6
+              10454                               7
+              10455                               5
+              10456                               3
+              10457                               0
+              10458                              24
+              10459                               3
+              10460                               9
+              10461                              21
+              10462                               1
+              10463                              36
+              10464                               7
+              10465                              14
+              10466                              14
+              10467                              51
+              10468                              35
+              10469                               4
+              10471                              27
+              10472                               0
+              10473                               0
+              10474                               0
+              10475                               7
+              10514                               0
+              10543                               0
+              10553                               0
+              10573                               0
+              10701                               0
+              10705                               0
+              10911                               0
+              10965                               0
+              10977                               0
+              11001                               0
+              11021                               0
+              11050                               0
+              11101                               0
+              11102                               0
+              11103                               0
+              11104                               0
+              11105                               0
+              11106                               0
+              11111                               0
+              11112                               0
+              11201                               2
+              11202                               0
+              11203                               2
+              11204                               0
+              11205                               0
+              11206                               0
+              11207                               0
+              11208                               0
+              11209                               0
+              11210                               0
+              11211                               2
+              11212                               1
+              11213                               0
+              11214                               0
+              11215                               0
+              11216                               0
+              11217                               0
+              11218                               1
+              11219                               1
+              11220                               0
+              11221                               0
+              11222                               0
+              11223                               1
+              11224                              14
+              11225                               0
+              11226                               6
+              11228                               0
+              11229                               2
+              11230                               1
+              11231                               0
+              11232                               0
+              11233                               0
+              11234                               8
+              11235                               7
+              11236                               0
+              11237                               0
+              11238                               0
+              11239                               0
+              11252                               0
+              11354                               1
+              11355                               0
+              11356                               0
+              11357                               0
+              11358                               0
+              11360                               0
+              11361                               0
+              11362                               0
+              11364                               0
+              11365                               0
+              11366                               0
+              11367                               0
+              11368                               3
+              11369                               0
+              11370                               0
+              11371                               0
+              11372                               2
+              11373                               0
+              11374                               0
+              11375                               2
+              11377                               0
+              11378                               0
+              11379                               0
+              11385                               0
+              11411                               0
+              11412                               0
+              11413                               0
+              11414                               0
+              11415                               0
+              11416                               0
+              11417                               0
+              11418                               1
+              11419                               0
+              11420                               1
+              11421                               0
+              11422                               0
+              11423                               0
+              11424                               0
+              11425                               0
+              11426                               0
+              11427                               1
+              11428                               0
+              11429                               0
+              11430                               0
+              11431                               0
+              11432                               0
+              11433                               0
+              11434                               0
+              11435                               0
+              11436                               0
+              11439                               0
+              11451                               0
+              11471                               0
+              11510                               6
+              11548                               0
+              11566                               0
+              11577                               0
+              11580                               0
+              11598                               0
+              11629                               0
+              11691                               0
+              11692                               0
+              11693                               0
+              11694                               0
+              11695                               0
+              11731                               0
+              11798                               0
+              11968                               0
+              12423                               0
+              12428                               1
+              12435                               0
+              12458                               0
+              12466                               0
+              12473                               0
+              12528                               0
+              12701                               0
+              12733                               0
+              12734                               0
+              12737                               0
+              12750                               0
+              12751                               0
+              12754                               0
+              12758                               0
+              12759                               0
+              12763                               0
+              12764                               0
+              12768                               0
+              12779                               0
+              12783                               0
+              12786                               0
+              12788                               0
+              12789                               0
+              13731                               0
+              16091                               0
+              20459                               0
+Cause of Death                                        Ethnicity of Victim             Number of Deaths
+----------------------------------------------------  ----------------------------  ------------------
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC BLACK                           297
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC BLACK                           201
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC BLACK                            64
+MALIGNANT NEOPLASMS                                   NON-HISPANIC BLACK                          1540
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC BLACK                            50
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC BLACK                            70
+PEPTIC ULCER                                          NON-HISPANIC BLACK                            13
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC BLACK                           111
+SEPTICEMIA                                            NON-HISPANIC BLACK                            36
+SHORT GESTATION/LBW                                   NON-HISPANIC BLACK                            35
+VIRAL HEPATITIS                                       NON-HISPANIC BLACK                            49
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           164
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                           247
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            22
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            74
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            69
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           382
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           NON-HISPANIC WHITE                            19
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                            67
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           502
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            32
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           258
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          5351
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           219
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                            24
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           707
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                            61
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3438
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            16
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                            90
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            55
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            22
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                            75
+SEPTICEMIA                                            NON-HISPANIC WHITE                           107
+SHORT GESTATION/LBW                                   NON-HISPANIC WHITE                            14
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            32
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           272
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                            94
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            49
+ASSAULT (HOMICIDE)                                    NON-HISPANIC WHITE                            25
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            46
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            91
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           276
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                           110
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           388
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            33
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           245
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          4495
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           153
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                            76
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           614
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                           182
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3408
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            57
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                           119
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            79
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            19
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                           211
+SEPTICEMIA                                            NON-HISPANIC WHITE                            74
+SHORT GESTATION/LBW                                   NON-HISPANIC WHITE                            14
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            82
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  44
+ALZHEIMERS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                  24
+ANEMIAS                                               ASIAN &amp; PACIFIC ISLANDER                   5
+ASSAULT (HOMICIDE)                                    ASIAN &amp; PACIFIC ISLANDER                   6
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                  11
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  98
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           ASIAN &amp; PACIFIC ISLANDER                   6
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                  10
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  30
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 ASIAN &amp; PACIFIC ISLANDER                   7
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  51
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 402
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  46
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  84
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  23
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 454
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  18
+PARKINSONS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                   5
+SEPTICEMIA                                            ASIAN &amp; PACIFIC ISLANDER                  11
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                   6
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  61
+ALZHEIMERS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                  18
+AORTIC ANEURYSM AND DISSECTION                        ASIAN &amp; PACIFIC ISLANDER                   6
+ASSAULT (HOMICIDE)                                    ASIAN &amp; PACIFIC ISLANDER                   9
+ATHEROSCLEROSIS                                       ASIAN &amp; PACIFIC ISLANDER                   6
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                  11
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  79
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                  15
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  73
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 ASIAN &amp; PACIFIC ISLANDER                  13
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  60
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 452
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  37
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  94
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  50
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 550
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                ASIAN &amp; PACIFIC ISLANDER                  11
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  17
+PARKINSONS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                  11
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  ASIAN &amp; PACIFIC ISLANDER                   5
+SEPTICEMIA                                            ASIAN &amp; PACIFIC ISLANDER                  15
+SHORT GESTATION/LBW                                   ASIAN &amp; PACIFIC ISLANDER                   5
+TUBERCULOSIS                                          ASIAN &amp; PACIFIC ISLANDER                  10
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                  16
+ACCIDENTS EXCEPT DRUG POISONING                       HISPANIC                                      52
+ALZHEIMERS DISEASE                                    HISPANIC                                      90
+AORTIC ANEURYSM AND DISSECTION                        HISPANIC                                      12
+ASSAULT (HOMICIDE)                                    HISPANIC                                      20
+ATHEROSCLEROSIS                                       HISPANIC                                      15
+BENIGN AND UNCERTAIN NEOPLASMS                        HISPANIC                                      17
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          HISPANIC                                       8
+CEREBROVASCULAR DISEASE                               HISPANIC                                     179
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   HISPANIC                                      39
+CHRONIC LOWER RESPIRATORY DISEASES                    HISPANIC                                     156
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 HISPANIC                                      21
+DIABETES MELLITUS                                     HISPANIC                                     196
+DISEASES OF HEART                                     HISPANIC                                    1348
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             HISPANIC                                      83
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  HISPANIC                                      70
+INFLUENZA AND PNEUMONIA                               HISPANIC                                     218
+INTENTIONAL SELF-HARM (SUICIDE)                       HISPANIC                                      21
+MALIGNANT NEOPLASMS                                   HISPANIC                                    1085
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           HISPANIC                                      42
+PARKINSONS DISEASE                                    HISPANIC                                      16
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM              HISPANIC                                      12
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  HISPANIC                                      56
+SEPTICEMIA                                            HISPANIC                                      42
+SHORT GESTATION/LBW                                   HISPANIC                                      16
+VIRAL HEPATITIS                                       HISPANIC                                      39
+ACCIDENTS EXCEPT DRUG POISONING                       HISPANIC                                     180
+ALZHEIMERS DISEASE                                    HISPANIC                                      38
+ANEMIAS                                               HISPANIC                                      10
+AORTIC ANEURYSM AND DISSECTION                        HISPANIC                                      20
+ASSAULT (HOMICIDE)                                    HISPANIC                                     115
+BENIGN AND UNCERTAIN NEOPLASMS                        HISPANIC                                      18
+CEREBROVASCULAR DISEASE                               HISPANIC                                     147
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   HISPANIC                                     167
+CHRONIC LOWER RESPIRATORY DISEASES                    HISPANIC                                     124
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 HISPANIC                                      37
+DIABETES MELLITUS                                     HISPANIC                                     200
+DISEASES OF HEART                                     HISPANIC                                    1201
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             HISPANIC                                      69
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  HISPANIC                                     162
+INFLUENZA AND PNEUMONIA                               HISPANIC                                     209
+INTENTIONAL SELF-HARM (SUICIDE)                       HISPANIC                                      93
+MALIGNANT NEOPLASMS                                   HISPANIC                                    1144
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                HISPANIC                                      48
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           HISPANIC                                      44
+PARKINSONS DISEASE                                    HISPANIC                                      21
+PEPTIC ULCER                                          HISPANIC                                       9
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  HISPANIC                                     145
+SEPTICEMIA                                            HISPANIC                                      40
+SHORT GESTATION/LBW                                   HISPANIC                                      12
+VIRAL HEPATITIS                                       HISPANIC                                     105
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC BLACK                            76
+ALZHEIMERS DISEASE                                    NON-HISPANIC BLACK                            90
+ANEMIAS                                               NON-HISPANIC BLACK                            13
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC BLACK                            19
+ASSAULT (HOMICIDE)                                    NON-HISPANIC BLACK                            52
+ATHEROSCLEROSIS                                       NON-HISPANIC BLACK                            20
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC BLACK                            41
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          NON-HISPANIC BLACK                            16
+CEREBROVASCULAR DISEASE                               NON-HISPANIC BLACK                           281
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC BLACK                            39
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC BLACK                           221
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC BLACK                            29
+DIABETES MELLITUS                                     NON-HISPANIC BLACK                           410
+DISEASES OF HEART                                     NON-HISPANIC BLACK                          2243
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC BLACK                           225
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC BLACK                           144
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC BLACK                           273
+MALIGNANT NEOPLASMS                                   NON-HISPANIC BLACK                          1918
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC BLACK                            17
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC BLACK                            83
+PEPTIC ULCER                                          NON-HISPANIC BLACK                            22
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM              NON-HISPANIC BLACK                            13
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC BLACK                            65
+SEPTICEMIA                                            NON-HISPANIC BLACK                            52
+SHORT GESTATION/LBW                                   NON-HISPANIC BLACK                            27
+VIRAL HEPATITIS                                       NON-HISPANIC BLACK                            33
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC BLACK                           133
+ALZHEIMERS DISEASE                                    NON-HISPANIC BLACK                            39
+ANEMIAS                                               NON-HISPANIC BLACK                            24
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC BLACK                            29
+ASSAULT (HOMICIDE)                                    NON-HISPANIC BLACK                           266
+ATHEROSCLEROSIS                                       NON-HISPANIC BLACK                            15
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC BLACK                            16
+CEREBROVASCULAR DISEASE                               NON-HISPANIC BLACK                           200
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC BLACK                            66
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC BLACK                           200
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC BLACK                            31
+DIABETES MELLITUS                                     NON-HISPANIC BLACK                           307
+DISEASES OF HEART                                     NON-HISPANIC BLACK                          1840
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC BLACK                           154
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC BLACK                           277
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC BLACK                           243
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC BLACK                            53
+MALIGNANT NEOPLASMS                                   NON-HISPANIC BLACK                          1590
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC BLACK                            45
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC BLACK                            76
+PEPTIC ULCER                                          NON-HISPANIC BLACK                            18
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC BLACK                           135
+SEPTICEMIA                                            NON-HISPANIC BLACK                            54
+SHORT GESTATION/LBW                                   NON-HISPANIC BLACK                            17
+VIRAL HEPATITIS                                       NON-HISPANIC BLACK                            56
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           184
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                           231
+ANEMIAS                                               NON-HISPANIC WHITE                            15
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            27
+ASSAULT (HOMICIDE)                                    NON-HISPANIC WHITE                            20
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            58
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            73
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           466
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           NON-HISPANIC WHITE                            15
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                            79
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           510
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            39
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           253
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          5016
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           199
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                            19
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           696
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                            68
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3373
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            19
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                            76
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            55
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            24
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                            88
+SEPTICEMIA                                            NON-HISPANIC WHITE                            86
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            32
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           272
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                            89
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            44
+ASSAULT (HOMICIDE)                                    NON-HISPANIC WHITE                            33
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            29
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            76
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           290
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                           127
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           444
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            55
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           258
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          4220
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           142
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                            75
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           646
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                           177
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3222
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            60
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                            89
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            77
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            21
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                           254
+SEPTICEMIA                                            NON-HISPANIC WHITE                            75
+SHORT GESTATION/LBW                                   NON-HISPANIC WHITE                            15
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            76
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  32
+ALZHEIMERS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                   7
+AORTIC ANEURYSM AND DISSECTION                        ASIAN &amp; PACIFIC ISLANDER                   9
+ASSAULT (HOMICIDE)                                    ASIAN &amp; PACIFIC ISLANDER                   6
+ATHEROSCLEROSIS                                       ASIAN &amp; PACIFIC ISLANDER                   5
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                   6
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  70
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                   6
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  29
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  34
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 428
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  22
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  58
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  22
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 396
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  13
+PARKINSONS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                   5
+PEPTIC ULCER                                          ASIAN &amp; PACIFIC ISLANDER                   6
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                   7
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  54
+AORTIC ANEURYSM AND DISSECTION                        ASIAN &amp; PACIFIC ISLANDER                   5
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                   9
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          ASIAN &amp; PACIFIC ISLANDER                   5
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  56
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                  18
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  43
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 ASIAN &amp; PACIFIC ISLANDER                  12
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  47
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 497
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  25
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  68
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  38
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 528
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                ASIAN &amp; PACIFIC ISLANDER                  11
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  14
+PEPTIC ULCER                                          ASIAN &amp; PACIFIC ISLANDER                   5
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  ASIAN &amp; PACIFIC ISLANDER                   7
+SEPTICEMIA                                            ASIAN &amp; PACIFIC ISLANDER                  10
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                  12
+ACCIDENTS EXCEPT DRUG POISONING                       HISPANIC                                      72
+ALZHEIMERS DISEASE                                    HISPANIC                                      43
+AORTIC ANEURYSM AND DISSECTION                        HISPANIC                                      19
+ASSAULT (HOMICIDE)                                    HISPANIC                                      22
+ATHEROSCLEROSIS                                       HISPANIC                                      12
+BENIGN AND UNCERTAIN NEOPLASMS                        HISPANIC                                      12
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          HISPANIC                                       8
+CEREBROVASCULAR DISEASE                               HISPANIC                                     164
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           HISPANIC                                       9
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   HISPANIC                                      37
+CHRONIC LOWER RESPIRATORY DISEASES                    HISPANIC                                     116
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 HISPANIC                                      28
+DIABETES MELLITUS                                     HISPANIC                                     205
+DISEASES OF HEART                                     HISPANIC                                    1418
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             HISPANIC                                      78
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  HISPANIC                                     109
+INFLUENZA AND PNEUMONIA                               HISPANIC                                     190
+INTENTIONAL SELF-HARM (SUICIDE)                       HISPANIC                                      25
+MALIGNANT NEOPLASMS                                   HISPANIC                                     969
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           HISPANIC                                      45
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM              HISPANIC                                       8
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  HISPANIC                                      48
+SEPTICEMIA                                            HISPANIC                                      49
+SHORT GESTATION/LBW                                   HISPANIC                                      13
+VIRAL HEPATITIS                                       HISPANIC                                      37
+ACCIDENTS EXCEPT DRUG POISONING                       HISPANIC                                     154
+ALZHEIMERS DISEASE                                    HISPANIC                                      11
+AORTIC ANEURYSM AND DISSECTION                        HISPANIC                                      21
+ASSAULT (HOMICIDE)                                    HISPANIC                                     114
+ATHEROSCLEROSIS                                       HISPANIC                                      11
+BENIGN AND UNCERTAIN NEOPLASMS                        HISPANIC                                      20
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          HISPANIC                                      11
+CEREBROVASCULAR DISEASE                               HISPANIC                                     126
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   HISPANIC                                     107
+CHRONIC LOWER RESPIRATORY DISEASES                    HISPANIC                                     106
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 HISPANIC                                      29
+DIABETES MELLITUS                                     HISPANIC                                     177
+DISEASES OF HEART                                     HISPANIC                                    1327
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             HISPANIC                                      76
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  HISPANIC                                     218
+INFLUENZA AND PNEUMONIA                               HISPANIC                                     189
+INTENTIONAL SELF-HARM (SUICIDE)                       HISPANIC                                      56
+MALIGNANT NEOPLASMS                                   HISPANIC                                    1013
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                HISPANIC                                      56
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           HISPANIC                                      39
+PARKINSONS DISEASE                                    HISPANIC                                       7
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  HISPANIC                                     183
+RESPIRATORY DISTRESS OF NEWBORN                       HISPANIC                                       7
+SEPTICEMIA                                            HISPANIC                                      31
+SHORT GESTATION/LBW                                   HISPANIC                                      13
+VIRAL HEPATITIS                                       HISPANIC                                      90
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC BLACK                            87
+ALZHEIMERS DISEASE                                    NON-HISPANIC BLACK                            41
+ANEMIAS                                               NON-HISPANIC BLACK                            18
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC BLACK                            25
+ASSAULT (HOMICIDE)                                    NON-HISPANIC BLACK                            41
+ATHEROSCLEROSIS                                       NON-HISPANIC BLACK                            30
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC BLACK                            38
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          NON-HISPANIC BLACK                            16
+CEREBROVASCULAR DISEASE                               NON-HISPANIC BLACK                           279
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC BLACK                            33
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC BLACK                           163
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC BLACK                            37
+DIABETES MELLITUS                                     NON-HISPANIC BLACK                           358
+DISEASES OF HEART                                     NON-HISPANIC BLACK                          2722
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC BLACK                           166
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC BLACK                           248
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC BLACK                           295
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC BLACK                            20
+MALIGNANT NEOPLASMS                                   NON-HISPANIC BLACK                          1800
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC BLACK                            80
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM              NON-HISPANIC BLACK                            25
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC BLACK                            87
+SEPTICEMIA                                            NON-HISPANIC BLACK                            89
+SHORT GESTATION/LBW                                   NON-HISPANIC BLACK                            15
+VIRAL HEPATITIS                                       NON-HISPANIC BLACK                            32
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC BLACK                           158
+ALZHEIMERS DISEASE                                    NON-HISPANIC BLACK                            18
+ANEMIAS                                               NON-HISPANIC BLACK                            19
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC BLACK                            33
+ASSAULT (HOMICIDE)                                    NON-HISPANIC BLACK                           267
+ATHEROSCLEROSIS                                       NON-HISPANIC BLACK                            29
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC BLACK                            22
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          NON-HISPANIC BLACK                            24
+CEREBROVASCULAR DISEASE                               NON-HISPANIC BLACK                           213
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC BLACK                            78
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC BLACK                           137
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC BLACK                            33
+DIABETES MELLITUS                                     NON-HISPANIC BLACK                           246
+DISEASES OF HEART                                     NON-HISPANIC BLACK                          2121
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC BLACK                           137
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC BLACK                           377
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC BLACK                           230
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC BLACK                            58
+MALIGNANT NEOPLASMS                                   NON-HISPANIC BLACK                          1523
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC BLACK                            49
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC BLACK                            58
+PEPTIC ULCER                                          NON-HISPANIC BLACK                            13
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC BLACK                           163
+SEPTICEMIA                                            NON-HISPANIC BLACK                            67
+SHORT GESTATION/LBW                                   NON-HISPANIC BLACK                            20
+VIRAL HEPATITIS                                       NON-HISPANIC BLACK                            60
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           162
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                           107
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            37
+ASSAULT (HOMICIDE)                                    NON-HISPANIC WHITE                            12
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            39
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            60
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD          NON-HISPANIC WHITE                            12
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           372
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           NON-HISPANIC WHITE                            18
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                            54
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           472
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            40
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           231
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          7050
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           155
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                            40
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           659
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                            64
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3519
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            23
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                            89
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            35
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            28
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                            85
+SEPTICEMIA                                            NON-HISPANIC WHITE                            79
+SHORT GESTATION/LBW                                   NON-HISPANIC WHITE                            12
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            36
+ACCIDENTS EXCEPT DRUG POISONING                       NON-HISPANIC WHITE                           297
+ALZHEIMERS DISEASE                                    NON-HISPANIC WHITE                            49
+AORTIC ANEURYSM AND DISSECTION                        NON-HISPANIC WHITE                            73
+ASSAULT (HOMICIDE)                                    NON-HISPANIC WHITE                            41
+ATHEROSCLEROSIS                                       NON-HISPANIC WHITE                            45
+BENIGN AND UNCERTAIN NEOPLASMS                        NON-HISPANIC WHITE                            75
+CEREBROVASCULAR DISEASE                               NON-HISPANIC WHITE                           267
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   NON-HISPANIC WHITE                           112
+CHRONIC LOWER RESPIRATORY DISEASES                    NON-HISPANIC WHITE                           345
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 NON-HISPANIC WHITE                            53
+DIABETES MELLITUS                                     NON-HISPANIC WHITE                           237
+DISEASES OF HEART                                     NON-HISPANIC WHITE                          5632
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             NON-HISPANIC WHITE                           123
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  NON-HISPANIC WHITE                           103
+INFLUENZA AND PNEUMONIA                               NON-HISPANIC WHITE                           530
+INTENTIONAL SELF-HARM (SUICIDE)                       NON-HISPANIC WHITE                           187
+MALIGNANT NEOPLASMS                                   NON-HISPANIC WHITE                          3356
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                NON-HISPANIC WHITE                            72
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           NON-HISPANIC WHITE                            92
+PARKINSONS DISEASE                                    NON-HISPANIC WHITE                            53
+PEPTIC ULCER                                          NON-HISPANIC WHITE                            19
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING  NON-HISPANIC WHITE                           261
+SEPTICEMIA                                            NON-HISPANIC WHITE                            62
+SHORT GESTATION/LBW                                   NON-HISPANIC WHITE                            19
+VIRAL HEPATITIS                                       NON-HISPANIC WHITE                            83
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  37
+ATHEROSCLEROSIS                                       ASIAN &amp; PACIFIC ISLANDER                  10
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                   9
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  65
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER           ASIAN &amp; PACIFIC ISLANDER                   6
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                   6
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  30
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 ASIAN &amp; PACIFIC ISLANDER                   7
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  47
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 456
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  32
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  73
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  26
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 346
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  14
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM              ASIAN &amp; PACIFIC ISLANDER                   5
+SEPTICEMIA                                            ASIAN &amp; PACIFIC ISLANDER                  10
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                   9
+ACCIDENTS EXCEPT DRUG POISONING                       ASIAN &amp; PACIFIC ISLANDER                  54
+AORTIC ANEURYSM AND DISSECTION                        ASIAN &amp; PACIFIC ISLANDER                   5
+ASSAULT (HOMICIDE)                                    ASIAN &amp; PACIFIC ISLANDER                  14
+ATHEROSCLEROSIS                                       ASIAN &amp; PACIFIC ISLANDER                   8
+BENIGN AND UNCERTAIN NEOPLASMS                        ASIAN &amp; PACIFIC ISLANDER                   8
+CEREBROVASCULAR DISEASE                               ASIAN &amp; PACIFIC ISLANDER                  48
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   ASIAN &amp; PACIFIC ISLANDER                  13
+CHRONIC LOWER RESPIRATORY DISEASES                    ASIAN &amp; PACIFIC ISLANDER                  46
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 ASIAN &amp; PACIFIC ISLANDER                  14
+DIABETES MELLITUS                                     ASIAN &amp; PACIFIC ISLANDER                  52
+DISEASES OF HEART                                     ASIAN &amp; PACIFIC ISLANDER                 546
+ESSENTIAL HYPERTENSION AND RENAL DISEASES             ASIAN &amp; PACIFIC ISLANDER                  31
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                  ASIAN &amp; PACIFIC ISLANDER                   7
+INFLUENZA AND PNEUMONIA                               ASIAN &amp; PACIFIC ISLANDER                  90
+INTENTIONAL SELF-HARM (SUICIDE)                       ASIAN &amp; PACIFIC ISLANDER                  30
+MALIGNANT NEOPLASMS                                   ASIAN &amp; PACIFIC ISLANDER                 477
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                ASIAN &amp; PACIFIC ISLANDER                   5
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS           ASIAN &amp; PACIFIC ISLANDER                  14
+PARKINSONS DISEASE                                    ASIAN &amp; PACIFIC ISLANDER                   7
+SEPTICEMIA                                            ASIAN &amp; PACIFIC ISLANDER                   5
+VIRAL HEPATITIS                                       ASIAN &amp; PACIFIC ISLANDER                  11
+ACCIDENTS EXCEPT DRUG POISONING                       HISPANIC                                      68
+ALZHEIMERS DISEASE                                    HISPANIC                                      61
+AORTIC ANEURYSM AND DISSECTION                        HISPANIC                                       9
+ASSAULT (HOMICIDE)                                    HISPANIC                                      25
+ATHEROSCLEROSIS                                       HISPANIC                                      16
+BENIGN AND UNCERTAIN NEOPLASMS                        HISPANIC                                      12
+CEREBROVASCULAR DISEASE                               HISPANIC                                     152
+CHRONIC LIVER DISEASE AND CIRRHOSIS                   HISPANIC                                      63
+CHRONIC LOWER RESPIRATORY DISEASES                    HISPANIC                                     156
+CONGENITAL MALFORMATIONS,DEFORMATIONS                 HISPANIC                                      36
+DIABETES MELLITUS                                     HISPANIC                                     228
+
+Aggregated Data:
+
+  Number of Deaths  Cause of Death
+------------------  ----------------------------------------------------
+               539  MENTAL DISORDERS DUE TO USE OF ALCOHOL
+               694  BENIGN AND UNCERTAIN NEOPLASMS
+               219  PEPTIC ULCER
+             48765  DISEASES OF HEART
+              2172  ESSENTIAL HYPERTENSION AND RENAL DISEASES
+              1246  CHRONIC LIVER DISEASE AND CIRRHOSIS
+                 7  RESPIRATORY DISTRESS OF NEWBORN
+              4100  DIABETES MELLITUS
+               903  VIRAL HEPATITIS
+                73  CHOLELITHIASIS AND DISORDERS OF GALLBLADDER
+              2246  HUMAN IMMUNODEFICIENCY VIRUS DISEASE
+              4291  CHRONIC LOWER RESPIRATORY DISEASES
+             35649  MALIGNANT NEOPLASMS
+              1182  NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS
+              1088  ASSAULT (HOMICIDE)
+               464  AORTIC ANEURYSM AND DISSECTION
+              6367  INFLUENZA AND PNEUMONIA
+              1297  ALZHEIMERS DISEASE
+               994  SEPTICEMIA
+              1318  INTENTIONAL SELF-HARM (SUICIDE)
+                10  TUBERCULOSIS
+               100  CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD
+               104  ANEMIAS
+              4210  CEREBROVASCULAR DISEASE
+               247  SHORT GESTATION/LBW
+              2613  ACCIDENTS EXCEPT DRUG POISONING
+               468  ATHEROSCLEROSIS
+              1979  PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING
+               426  PARKINSONS DISEASE
+               586  CONGENITAL MALFORMATIONS,DEFORMATIONS
+                63  PREGNANCY, CHILDBIRTH AND THE PUERPERIUM
+
+ Just Hispanics now:
+
+Number of Deaths                                        Cause of Death
+----------------------------------------------------  ----------------
+DISEASES OF HEART                                                 5294
+MALIGNANT NEOPLASMS                                               4211
+DIABETES MELLITUS                                                 1006
+INFLUENZA AND PNEUMONIA                                            806
+CEREBROVASCULAR DISEASE                                            768
+CHRONIC LOWER RESPIRATORY DISEASES                                 658
+HUMAN IMMUNODEFICIENCY VIRUS DISEASE                               559
+ACCIDENTS EXCEPT DRUG POISONING                                    526
+PSYCH. SUBSTANCE USE &amp; ACCIDENTAL DRUG POISONING               432
+CHRONIC LIVER DISEASE AND CIRRHOSIS                                413
+ESSENTIAL HYPERTENSION AND RENAL DISEASES                          306
+ASSAULT (HOMICIDE)                                                 296
+VIRAL HEPATITIS                                                    271
+ALZHEIMERS DISEASE                                                 243
+INTENTIONAL SELF-HARM (SUICIDE)                                    195
+NEPHRITIS, NEPHROTIC SYNDROME AND NEPHROSIS                        170
+SEPTICEMIA                                                         162
+CONGENITAL MALFORMATIONS,DEFORMATIONS                              151
+MENTAL DISORDERS DUE TO USE OF ALCOHOL                             104
+AORTIC ANEURYSM AND DISSECTION                                      81
+BENIGN AND UNCERTAIN NEOPLASMS                                      79
+SHORT GESTATION/LBW                                                 54
+ATHEROSCLEROSIS                                                     54
+PARKINSONS DISEASE                                                  44
+CARDIOVASCULAR DISORDERS IN PERINATAL PERIOD                        27
+PREGNANCY, CHILDBIRTH AND THE PUERPERIUM                            20
+ANEMIAS                                                             10
+PEPTIC ULCER                                                         9
+CHOLELITHIASIS AND DISORDERS OF GALLBLADDER                          9
+RESPIRATORY DISTRESS OF NEWBORN                                      7
+
+Total Deaths:
+
+124420
+Percent of Hispanic deaths from homicides
+
+0.00237903873975
